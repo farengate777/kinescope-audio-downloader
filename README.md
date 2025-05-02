@@ -13,7 +13,7 @@ This is a simple shell script to batch-download **audio** from Kinescope-hosted 
 ## Project Structure
 ```
 ├── download_kinescope_audio.sh      # Main download script
-├── streams.txt                      # List of   pairs
+├── streams.txt                      # List of pairs
 ├── streams.txt.template             # Starter example
 ├── failed_downloads.txt             # Auto-generated log of failures
 └── .gitignore
