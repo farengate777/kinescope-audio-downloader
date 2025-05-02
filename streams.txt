@@ -1,0 +1,3 @@
+https://kinescope.io/abc/master.mpd audio/1-1.mp3
+https://kinescope.io/def/master.mpd downloads/promo.mp3
+https://kinescope.io/ghi/master.mpd ./output/session3.mp3
