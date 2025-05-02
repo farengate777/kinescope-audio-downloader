@@ -1,0 +1,6 @@
+# Format: <mpd_stream_url> <output_path/filename.mp3>
+# Use absolute or relative paths for output
+
+https://kinescope.io/abc123/master.mpd output/episode1.mp3
+https://kinescope.io/def456/master.mpd output/episode2.mp3
+# https://kinescope.io/ghi789/master.mpd ~/Music/favorites/promo.mp3
