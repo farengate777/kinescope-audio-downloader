@@ -1,0 +1,9 @@
+# Ignore log and runtime files
+failed_downloads.txt
+*.log
+
+# macOS metadata
+.DS_Store
+
+# Optional outputs
+output/
